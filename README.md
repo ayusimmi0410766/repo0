@@ -12,3 +12,10 @@ git add readme.md
 git rebase --continue
 git push origin br
 git merge br
+revert
+git revert id
+conflixt
+f1.txt
+add f1.txt
+git revert --continue
+
