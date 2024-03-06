@@ -18,4 +18,18 @@ conflixt
 f1.txt
 add f1.txt
 git revert --continue
+cherry 
+m=f1.txt
+g add
+comm
+switch branch
+commit 4
+git log
+che m
+ch tb
+git  cherry-pick id
+conf
+sol con
+git add
+chery--pick --continue
 
